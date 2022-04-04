@@ -1,0 +1,29 @@
+{
+    "files.insertFinalNewline": true,
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/vendor": true,
+        "**/bower_components": true
+    },
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.fontFamily": "JetBrainsMono NF",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "editor.autoIndent": "full",
+    "editor.cursorStyle": "line-thin",
+    "editor.lineHeight": 1.4,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.wordWrap": "on",
+    "editor.wordWrapColumn": 100,
+    "editor.detectIndentation": false,
+    "prettier.singleQuote": true,
+    "prettier.jsxSingleQuote": true,
+    "editor.formatOnSave": true,
+    "prettier.semi": false,
+}
