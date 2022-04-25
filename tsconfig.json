@@ -27,6 +27,6 @@
   "baseUrl": "src",
   "paths": {
     "components/*": ["components/*"],
-    "views/*": ["views/*"],
+    "views/*": ["views/*"]
   }
 }
